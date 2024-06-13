@@ -1,6 +1,6 @@
 # Fifa-World-Cup-2022
 
-Link to dashboard can be found here: https://public.tableau.com/views/209projectdraft_2nd/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Link to dashboard can be found here: https://public.tableau.com/views/DATASCI209Project/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 Data Link: https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset
 
